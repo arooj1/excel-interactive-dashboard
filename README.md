@@ -2,4 +2,4 @@
 Excel Interactive Dashboard for the Transportation Industry
 
 ## Sample Dashboard
-![alt text](images/idea.png)
+![alt text](Images/idea.png)
